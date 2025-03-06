@@ -6,7 +6,7 @@
     "invalid-email": "بريد الكتروني غير صالح",
     "user-not-found": "لم يتم العثور على المستخدم",
     "wrong-password": "كلمة المرور خاطئة",
-    "email-already-in-use" : "البريد الإلكتروني قيد الاستخدام بالفعل",
+    "email-already-in-use": "البريد الإلكتروني قيد الاستخدام بالفعل",
     "network-request-failed": "فشل طلب الشبكة",
     "default": "هل هناك خطب ما!",
     "get_started": "ابدأ",
@@ -19,7 +19,7 @@
     "offer_uploaded_successfully": "تم رفع العرض بنجاح",
     "error_upload_offer": "خطأ في رفع العرض",
     "tap_to_add_an_image": "انقر لإضافة صورة",
-    "offer_title": "عنوان العرض",   
+    "offer_title": "عنوان العرض",
     "offer_description": "وصف العرض",
     "enter_title_offer": "ادخل عنوان العرض",
     "enter_description_offer": "ادخل وصفاً مفصلاً للعرض",
@@ -36,9 +36,10 @@
     "no_offers": "لا توجد عروض",
     "category": "اضافة تعاقد",
     "emergency": "طوارئ",
-    "gyms": "صالات",
+    "gyms": "صالات رياضية",
+    "prosthetics": "أطراف صناعية",
     "hospitals": "المستشفيات",
-    "medical_centers"   : "المراكز الطبية",
+    "medical_centers": "المراكز الطبية",
     "laboratories": "المختبرات",
     "pharmacies": "الصيدليات",
     "medical_clinics": "العيادات الطبية",
@@ -84,6 +85,7 @@
     "sohag": "سوهاج",
     "south_sinai": "جنوب سيناء",
     "suez": "السويس",
+    "united_arab_emirates": "الامارات العربية المتحدة",
     "select_governorate": "اختر المحافظة",
     "plase_enter_a": "يرجى ادخال",
     "enter_valid_phone": "ادخل رقم هاتف صالح",
@@ -100,7 +102,7 @@
     "item_deleted_successfully": "تم حذف العنصر بنجاح",
     "card_generator": "اضافة بطاقة",
     "select_person_image": "اختر صورة الشخص",
-    "downaload_as_pdf" : "تحميل كملف PDF",
+    "downaload_as_pdf": "تحميل كملف PDF",
     "no_image_selected": "لم يتم اختيار صورة",
     "select_logo_image": "اختر صورة الشعار",
     "serial_number": "الرقم التسلسلي",
@@ -110,9 +112,9 @@
     "no_membership_founds": "لا توجد عضويات",
     "memberships": "العضويات",
     "save_membership": "حفظ العضوية",
-    "uploade_membership":"تم رفع العضوية بنجاح",
+    "uploade_membership": "تم رفع العضوية بنجاح",
     "error_upload_membership": "خطأ في رفع العضوية",
-    "membership_deleted" : "تم حذف العضوية",
+    "membership_deleted": "تم حذف العضوية",
     "please_select_image": "يرجى اختيار صورة",
     "log_out": "تسجيل الخروج",
     "logout_successfully": "تم تسجيل الخروج بنجاح",
@@ -120,11 +122,6 @@
     "membership_updated": "تم تحديث العضوية",
     "edit": "تعديل",
     "edit_data": "تعديل البيانات",
-    "discount": "الخصم"
-    
-     
-
-    
-    
-    
+    "discount": "الخصم",
+    "speciality": "التخصص"
 }
