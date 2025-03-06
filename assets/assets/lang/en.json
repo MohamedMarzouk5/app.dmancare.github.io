@@ -6,9 +6,9 @@
     "invalid-email": "invalid Email",
     "user-not-found": "User Not Found",
     "wrong-password": "Wrong Password",
-    "email-already-in-use" : "Email Already In Use",
+    "email-already-in-use": "Email Already In Use",
     "network-request-failed": "Network Request Failed",
-    "default": "Some Thing, Wrong!" ,
+    "default": "Some Thing, Wrong!",
     "get_started": "Get Started",
     "success_login": "Success Login",
     "error_login": "Error Login",
@@ -37,8 +37,9 @@
     "category": "Add Category",
     "emergency": "Emergency",
     "gyms": "Gyms",
+    "prosthetics": "Prosthetics",
     "hospitals": "Hospitals",
-    "medical_centers"   : "Medical Centers",
+    "medical_centers": "Medical Centers",
     "laboratories": "Laboratories",
     "pharmacies": "Pharmacies",
     "medical_clinics": "Medical Clinics",
@@ -47,7 +48,7 @@
     "beauty_centers": "Beauty Centers",
     "physical_therapy": "Physical Therapy",
     "home_nursing": "Home Nursing",
-    "hearing_aids": "Hearing Aids", 
+    "hearing_aids": "Hearing Aids",
     "dental_centers": "Dental Centers",
     "add_data": "Add Data",
     "name": "Name",
@@ -84,6 +85,7 @@
     "sharqia": "Sharqia",
     "sohag": "Sohag",
     "south_sinai": "South Sinai",
+    "united_arab_emirates": "United Arab Emirates",
     "select_governorate": "Select Governorate",
     "plase_enter_a": "Please Enter a",
     "enter_valid_phone": "Enter Valid Phone",
@@ -110,9 +112,9 @@
     "no_membership_founds": "No Membership Founds",
     "memberships": "Memberships",
     "save_membership": "Save Membership",
-    "uploade_membership":"Membership uploaded successfully",
+    "uploade_membership": "Membership uploaded successfully",
     "error_upload_membership": "Error Upload Membership",
-    "membership_deleted" : "Membership Deleted",
+    "membership_deleted": "Membership Deleted",
     "please_select_image": "Please Select Image",
     "log_out": "Log Out",
     "logout_successfully": "Logout Successfully",
@@ -120,11 +122,6 @@
     "membership_updated": "Membership Updated",
     "edit": "Edit",
     "edit_data": "Edit Data",
-    "discount": "Discount"
-
-
-
-
-
-
+    "discount": "Discount",
+    "speciality": "Speciality"
 }
